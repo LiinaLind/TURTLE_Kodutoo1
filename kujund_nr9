@@ -1,0 +1,41 @@
+import turtle
+
+for i in range(4):
+    turtle.fd(150)
+    turtle.left(90)
+    turtle.fd(150)
+    turtle.right(90)
+    turtle.fd(150)
+    turtle.right(90)
+
+turtle.left(90)
+
+for i in range(4):
+    turtle.fd(150)
+    turtle.left(90)
+    turtle.fd(150)
+    turtle.right(90)
+    turtle.fd(150)
+    turtle.right(90)
+    
+turtle.left(90)
+
+for i in range(4):
+    turtle.fd(150)
+    turtle.left(90)
+    turtle.fd(150)
+    turtle.right(90)
+    turtle.fd(150)
+    turtle.right(90)
+
+turtle.left(90)
+
+for i in range(4):
+    turtle.fd(150)
+    turtle.left(90)
+    turtle.fd(150)
+    turtle.right(90)
+    turtle.fd(150)
+    turtle.right(90)
+    
+turtle.done()
